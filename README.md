@@ -1,2 +1,2 @@
 # union-set-model-adaptation
-A PyTorch implementation of our ECCV2022 paper titled "Union-set Multi-source Model Adaptation for Semantic Segmentation", will be released at a later time (perhaps in 2023).
+A PyTorch implementation of our ECCV2022 paper titled "Union-set Multi-source Model Adaptation for Semantic Segmentation", will be released at a later time (perhaps at the end of 2022 or later).
