@@ -10,8 +10,8 @@ Pytorch version: 1.11.0, CUDA version: 11.1, GPU: one Tesla V100 32GB.
 - Target domain:
   - [Cityscapes Dataset](https://www.cityscapes-dataset.com/)
 
-Download the datasets, name the folders as the dataset names (Cityscapes, Synscapes, GTA5, SYNTHIA), and put them in the same folders.
-# Procedure
+Download the datasets, name the folders as the dataset names (Cityscapes, Synscapes, GTA5, SYNTHIA), and put them in the same folder.
+# Training procedure
 - Download the [initial weights](https://drive.google.com/file/d/1EkZ0FqmZ8cDp6vWx4J7qv4SoDfYljiUK/view?usp=sharing).
 - Train source-domain models with the source-domain data.
 ```
